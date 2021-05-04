@@ -1,13 +1,12 @@
 ---
-title: Next.js Pages
+title: Node Version Manager
 date: 2021/3/18
-description: Learn more about Next.js pages.
+description: Como instalar o NVM (Node Version Manager).
 tag: web development
-author: You
+author: Crisler
 ---
 
-# Next.js Pages
-
+# Node Version Manager - NVM
 In Next.js, a **page** is a [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
 
 **Example**: If you create `pages/about.js` that exports a React component like below, it will be accessible at `/about`.

@@ -1,99 +1,19 @@
 ---
-title: Markdown Examples
-date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
-author: You
+title: Conta Gratuita no Microsoft Azure
+date: 2021/5/04
+description: Comece a aprender a utilizar o Azure gratuitamente
+tag: Cloud Computing
+autor: Crisler
 ---
 
-# Markdown Examples
+# O que é Azure? 
+O Azure é o serviço de computação em nuvem da Microsoft onde você pode utilizar serviços de computação **IAAS**:_Infraestrutura como serviço_,**PAAS**: _Plataforma como serviço_ e **SAAS**: _Software como serviço_.
 
-## h2 Heading
+## Exemplos de alguns serviços oferecidos pelo Azure
+- Máquinas Virtuais Windows e Linux
+- Redes Virtuais
+- Bancos de Dados SQL
+- AKS - Azure Kubernetes Services
+- Function Apps e Web Apps para Aplicações sem servidor -[Serveless Applications](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/)
 
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Emphasis
-
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
+[Faça sua conta Gratuita](https://azure.microsoft.com/pt-br/free/) é simples e você pode aprender a utilizar todo poder que existe em cloud computing e aprender usando o [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/) e ainda neste momento de pandemia ainda há promoção para a certificação [AZ-900](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900).
