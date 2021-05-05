@@ -6,7 +6,9 @@ tag: Cloud Computing
 autor: Crisler
 ---
 
-# O que é Azure? 
+## O que é o Azure
+![](/images/cloud1.jpg)
+
 O Azure é o serviço de computação em nuvem da Microsoft onde você pode utilizar serviços de computação **IAAS**:_Infraestrutura como serviço_,**PAAS**: _Plataforma como serviço_ e **SAAS**: _Software como serviço_.
 
 ## Exemplos de alguns serviços oferecidos pelo Azure
