@@ -7,7 +7,7 @@ autor: Crisler
 ---
 
 ## O que é o Azure
-![](/images/cloud1.jpg)
+![](/images/microsoft.png)
 
 O Azure é o serviço de computação em nuvem da Microsoft onde você pode utilizar serviços de computação **IAAS**:_Infraestrutura como serviço_,**PAAS**: _Plataforma como serviço_ e **SAAS**: _Software como serviço_.
 
