@@ -9,6 +9,7 @@ autor: Crisler
 # Microsoft Azure
 <>
 <iframe width="480" height="300" src="https://www.youtube.com/embed/26aG5U7G6oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </>
 
 ## O que é o Azure?
