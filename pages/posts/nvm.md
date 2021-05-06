@@ -5,7 +5,9 @@ description: Como instalar o NVM (Node Version Manager).
 tag: Dev-Tools
 author: Crisler
 ---
-![](/images/nodejs.png)
+<>
+<iframe width="480" height="300" src="https://www.youtube.com/embed/Si6L8gwSc8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</>
 # Node Version Manager - NVM
 ## O que é o NVM ?
 O **NVM** ou Node Version Manager é um versionador para o [**NodeJS**]() que possibilita que você rode diferentes versões do Node e alterne da maneira que precisar. 
