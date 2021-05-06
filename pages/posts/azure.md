@@ -8,7 +8,7 @@ autor: Crisler
 
 # Microsoft Azure
 <>
-<iframe width="480" height="300" src="https://www.youtube.com/embed/ijyA2wtEH0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="300" src="https://www.youtube.com/embed/ijyA2wtEH0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </>
 
 ## O que é o Azure?
