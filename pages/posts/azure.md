@@ -1,7 +1,7 @@
 ---
-title: Microsoft Azure
+title: Microsoft Azure ⛈️
 date: 2021/5/04
-description: Utilize o Azure gratuitamente por 30 dias
+description: Computação em nuvem??⛈️👨‍💻
 tag: Cloud Computing
 autor: Crisler
 ---
