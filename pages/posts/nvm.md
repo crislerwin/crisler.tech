@@ -1,7 +1,7 @@
 ---
-title: Node Version Manager
+title: Node Version Manager ⌨️
 date: 2021/5/4
-description: Como instalar o NVM (Node Version Manager).
+description: NVM (Node Version Manager).
 tag: Dev-Tools
 author: Crisler
 ---
