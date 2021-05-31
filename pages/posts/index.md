@@ -1,10 +1,11 @@
 ---
 type: posts
-title: Blog
+title: Posts
 date: 2021-03-18
 ---
 
-# Blog 📖
+# POSTS 📖
 
+## PARTILHANDO CONHECIMENTO
 
-
+<img src="/images/blog.jpg"/>
