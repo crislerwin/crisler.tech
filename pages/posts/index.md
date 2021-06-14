@@ -6,6 +6,4 @@ date: 2021-03-18
 
 # POSTS 📖
 
-## PARTILHANDO CONHECIMENTO
-
-<img src="/images/blog.jpg"/>
+<img align="center" width="600" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif"/>

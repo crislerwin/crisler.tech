@@ -1,42 +1,91 @@
 ---
 title: Microsoft Azure ⛈️
 date: 2021/5/04
-description: Computação em nuvem??⛈️👨‍💻
+description: Microsoft Azure
 tag: Cloud Computing
 autor: Crisler
 ---
 
+![](https://lattinegroup.com/wp-content/uploads/2020/04/CAPA_FINAL.jpg)
+
 # Microsoft Azure
-<>
-<iframe width="480" height="300" src="https://www.youtube.com/embed/26aG5U7G6oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</>
+## Microsoft Azure: o que é e para que serve?
 
-## O que é o Azure?
-O Azure é o serviço de computação em nuvem da Microsoft onde você pode utilizar serviços de computação ao qual são divididos em:  IAAS (_Infraestrutura como serviço_), PAAS (_Plataforma como serviço_) e SAAS (_Software como serviço_).
+O Microsoft Azure é uma plataforma destinada à execução de aplicativos e serviços, baseada nos conceitos da computação em nuvem da Microsoft. Anteriormente conhecido como Windows Azure, ele é, atualmente, um dos principais pontos de ação da empresa e de seu CEO, Satya Nadella.
 
-## O que é IAAS
-Este termo é utilizado para definir serviços de computação que exigem habilidade tecnica para configuração, como uma máquina virtual, redes virtuais e elementos que fazem parte da infraestrutura de sua empresa. Resumidamente seria os componentes físicos do seu datacenter, porém não é necessário ter o gasto de compra dos equipamentos para começar ou melhorar a perfomance do seu negocio. Comprar equipamentos é definido como [**CAPEX**](https://pt.wikipedia.org/wiki/CAPEX) e pagar por serviços pelo uso é definido como [**OPEX**](https://pt.wikipedia.org/wiki/OPEX) e este tem grande relação com serviços de computação em nuvem. 
+Atualmente, adotado cada vez mais pelas grandes corporações, a plataforma é um importante passo dentro da jornada de transformação digital. No entanto, dúvidas e inseguranças geradas pela falta de conhecimento a respeito da computação em nuvem atrasam, em muitos casos esse processo de modernização.
 
-## O que é  PAAS
-Esta sigla se refere a plataforma como serviço, o **Azure** entrega para você sem a necessidade de instalação, manutenção ou atualização serviços como: Banco de dados, Storage Accounts ou Redis Cache entre outros serviços.
+![](https://lattinegroup.com/wp-content/uploads/2020/04/o-que-e-computacao-nuvem.jpg)
 
-## O que é SAAS
-A sigla SASS se refere ao termo Software As A Service ou seja ter o software como um serviço sem a necessidade de instalar, ou fazer qualquer tipo de manutenção no sistema, apenas utilizar o serviço. Um exemplo de SASS da Microsoft é o Office 365.
+## Microsoft Azure: o que é?
 
-## Resumo
-Gosto de pensar nesses serviços em analogia com serviços que vemos no dia-dia. Um exemplo de IASS seria um carro de aluguel ao qual você paga pelo aluguel, combustivel e não precisa comprar o veiculo para usufruir. Um exemplo de IASS seria o Uber ao qual você utiliza o serviço e paga somente pela distancia que queira se locomover, o que teria menos responsabilidade ainda. E o último SAAS, que seria como um onibus onde você apenas compra o bilhete e vai ao ponto e utiliza o serviço.
-## Exemplos de alguns serviços oferecidos pelo Azure
-- Máquinas Virtuais Windows e Linux
-- Redes Virtuais
-- Banco de dados
-- Contas de Armazenamento
+O que é a nuvem?
+Antes de entendermos como se dá a atuação do Microsoft Azure, é necessário dar um passo para trás e compreender o que é a nuvem.
 
-- AKS - Azure Kubernetes Services
-- Serveless Apps & Functions [Serveless Applications](https://docs.microsoft.com/en-us/dotnet/architecture/serverless/)
+A definição mais direta possível afirma que a nuvem é uma rede global de servidores virtuais que contam com as mais variadas funções. Por não ser física, essa rede consegue conectar servidores remotos espalhados globalmente, possibilitando que eles operem em conjunto.
 
+Mas, afinal, quais são essas funções? Como já dissemos aqui, elas são múltiplas e, por isso, a nuvem atende tão bem as necessidades do mundo corporativo moderno. Dentre elas, podemos citar o armazenamento e gerenciamento de dados e o desenvolvimento e execução de aplicativos e serviços como webmail e softwares.
 
-## Como começar?
-[Faça sua conta Gratuita](https://azure.microsoft.com/pt-br/free/) é simples para fazer a inscrição e você pode aprender conceitos úteis em praticante todos cloud providers, subir uma aplicação completa, criar máquinas virtuais e se divertir! [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/). Neste momento de pandemia há promoção para a certificação [AZ-900](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-900).
+A virtualidade da nuvem também permite que seus usuários consigam acessar todos os seus recursos por meio dos mais variados dispositivos. Na prática, isso traz um grande incentivo à produtividade.
 
-Feito com ❤️ por Crisler Wintler
+Existem quatro tipos de nuvem:
+
+✔ Nuvem pública: modelo padrão. Os serviços são oferecidos a todos que querem comprá-los (ou simplesmente usá-los) na internet pública.
+
+✔ Nuvem privada: também conhecida como nuvem corporativa. Nela, os serviços são disponibilizados somente a usuários selecionados.
+
+✔ Nuvem de comunidade: os recursos são compartilhados entre organizações com interesses convergentes, como instituições ligadas a governos, por exemplo.
+
+✔ Nuvem híbrida: combinação da nuvem pública e privada; os dados e aplicativos podem ser compartilhados entre elas de acordo com a demanda. É a opção mais flexível e a classificação do Microsoft Azure.
+
+Microsoft Azure: o que é?
+O Microsoft Azure é a plataforma de nuvem híbrida da Microsoft. Por definição, ele concentra toda a infraestrutura de cloud computing da empresa, incluindo os seus produtos, serviços e aplicativos.
+
+Do ponto de vista prático, há dois modelos de serviços na nuvem: IaaS (Infrastructure as a Service, ou Infraestrutura como um Serviço, em português) e PaaS (Platform as a Service, ou Plataforma como um Serviço, em português).
+
+## IaaS e PaaS no Microsoft Azure
+
+![](https://lattinegroup.com/wp-content/uploads/2020/04/microsoft-azure-iaas.png)
+
+Microsoft Azure e IaaS
+O IaaS é voltado para a infraestrutura de computação, que inclui itens como servidores e backups. O formato prioriza a diminuição de gastos com a compra e administração de servidores físicos e demais estruturas de processamento de dados. Nesse sentido, o Microsoft Azure gerencia a infraestrutura enquanto o usuário cuida de toda a configuração (incluindo a compra e instalação) do software.
+
+No dia a dia, IaaS é usado para:
+
+✔ Hospedagem de sites com menor custo
+
+✔ Computação de alto desempenho (HPC)
+
+✔ Instalação de ambientes de testes e desenvolvimento, que também podem ser desmontados com facilidade
+
+✔ Armazenamento e gerenciamento de backup
+
+✔ Análise de Big Data
+
+✔ Suporte a aplicativos web
+
+Dessa maneira, além de otimizar os gastos, o IaaS elimina preocupações com a infraestrutura de TI da empresa, incentivando
+a inovação e garantindo a segurança dos dados e aplicativos mesmo em situações de desastre e demais interrupções.
+
+![](https://lattinegroup.com/wp-content/uploads/2020/04/microsoft-azure-paas.png)
+Microsoft Azure e PaaS
+O Microsoft Azure também funciona no modelo PaaS, que oferece ainda mais tranquilidade ao usuário. E o motivo é simples! Além de incluir todos os recursos de IaaS, ele também engloba todo o ambiente necessário para o desenvolvimento e administração dos aplicativos na nuvem.
+
+Ou seja, o usuário só precisa se preocupar em gerenciar os apps que desenvolveu, deixando todo o resto por conta do provedor. Além disso, PaaS também oferece serviços de business intelligence (BI), gerenciamento de bancos de dados e middleware (uma camada de mediação entre diferentes tecnologias e aplicativos).
+
+Dentre as suas possibilidades de uso, podemos citar:
+
+✔ Estrutura completa de desenvolvimento de aplicativos
+
+✔ Ferramentas de análise ou BI
+
+✔ Aperfeiçoamento de apps no geral
+
+Quando tratamos de suas vantagens, podemos dizer que o Microsoft Azure facilita consideravelmente a vida dos desenvolvedores. O modelo PaaS tem os mesmos benefícios do IaaS – e mais.
+
+Nesse formato, os destaques são as ferramentas sofisticadas de desenvolvimento que permitem o gerenciamento de todas as etapas de criação de aplicativos. Elas garantem a diminuição do tempo de codificação de novos apps e permitem que os desenvolvedores trabalhem não somente nos computadores tradicionais, mas também em dispositivos móveis. A colaboração também entra em evidência aqui: em um ambiente de desenvolvimento online, profissionais conseguem trabalhar juntos, mesmo à distância.
+
+Graças a sua variedade de recursos, o Microsoft Azure pode ser utilizado por empresas dos mais diferentes setores – desde a saúde até o varejo, passando pela manufatura e logística.
+
+**by** [lattinegroup](https://lattinegroup.com/microsoft-azure/microsoft-azure-o-que-e-e-para-que-serve/#:~:text=O%20Microsoft%20Azure%20%C3%A9%20uma%20plataforma%20destinada%20%C3%A0,da%20empresa%20e%20de%20seu%20CEO%2C%20Satya%20Nadella.)
