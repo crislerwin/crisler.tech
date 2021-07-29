@@ -1,9 +1,9 @@
 import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
+import { AppProps } from 'next/app'
+import '../styles/main.scss'
 
-import '../styles/main.css'
-
-export default function Nextra({ Component, pageProps }) {
+export default function Nextra({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
